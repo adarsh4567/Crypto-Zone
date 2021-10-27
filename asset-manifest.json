@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Crypto-Zone/static/css/main.164406c8.chunk.css",
+    "main.js": "/Crypto-Zone/static/js/main.8984cb27.chunk.js",
+    "main.js.map": "/Crypto-Zone/static/js/main.8984cb27.chunk.js.map",
+    "runtime-main.js": "/Crypto-Zone/static/js/runtime-main.60d55533.js",
+    "runtime-main.js.map": "/Crypto-Zone/static/js/runtime-main.60d55533.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/Crypto-Zone/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.cb641cc7.chunk.js": "/Crypto-Zone/static/js/2.cb641cc7.chunk.js",
+    "static/js/2.cb641cc7.chunk.js.map": "/Crypto-Zone/static/js/2.cb641cc7.chunk.js.map",
+    "index.html": "/Crypto-Zone/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/Crypto-Zone/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.164406c8.chunk.css.map": "/Crypto-Zone/static/css/main.164406c8.chunk.css.map",
+    "static/js/2.cb641cc7.chunk.js.LICENSE.txt": "/Crypto-Zone/static/js/2.cb641cc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60d55533.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.cb641cc7.chunk.js",
+    "static/css/main.164406c8.chunk.css",
+    "static/js/main.8984cb27.chunk.js"
+  ]
+}
